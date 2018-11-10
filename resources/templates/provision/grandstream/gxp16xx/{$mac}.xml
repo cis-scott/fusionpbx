@@ -469,7 +469,7 @@
 <!--  Enable Call Features.  0 - No, 1 - Yes. Default is 1 -->
 <!--  Number: 0, 1 -->
 <!--  Mandatory -->
-<P191>1</P191>
+<P191>0</P191>
 <!--  Call Log. 0 - Log All, 1 - Log Incoming/Outgoing only (Missed calls NOT recorded), 2 - Disable Call Log. Default is 0 -->
 <!--  Number: 0, 1, 2 -->
 <!--  Mandatory -->
